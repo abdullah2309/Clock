@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+#clock{
+    font-size: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    margin-top: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    color:  white;
+    }
